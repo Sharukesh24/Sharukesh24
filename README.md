@@ -1,16 +1,21 @@
-# Hi there 👋, I'm Sharukesh S! 🚀
+<div align="center">
+
+<!-- Futuristic Background Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Sharukesh%20S!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Tech%20Innovator%20|%20AI%20Enthusiast%20|%20Visionary&descSize=16&descAlignY=58" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sharukesh24&color=00ffcc&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Sharukesh24?label=Followers&style=flat-square&color=blue" alt="followers" />
 </p>
+
+</div>
 
 ---
 
 ### 💻 About Me
-* 🎓 I'm currently pursuing **B.Tech in Information Technology** (2023–2027) at V.S.B. College of Engineering Technical Campus, Coimbatore.
-* 💻 Passionate Web Developer & Tech enthusiast based in **Madurai, Tamil Nadu**.
-* 🌱 Constantly building real-world projects with HTML, CSS, JavaScript, and Java.
+- 🎓 I'm currently pursuing **B.Tech in Information Technology** (2023–2027) at V.S.B. College of Engineering Technical Campus, Coimbatore.
+- 💻 Passionate Web Developer & Tech enthusiast based in **Madurai, Tamil Nadu**.
+- 🌱 Constantly building real-world projects with HTML, CSS, JavaScript, and Java.
 
 ---
 
@@ -29,16 +34,16 @@
 ---
 
 ### 🚀 Featured Projects
-* **🎵 Musify:** A responsive music player web application built using HTML, CSS, and JavaScript.
-* **💰 Spendy:** An intuitive expense tracking web application for managing daily finances.
-* **🌤️ Live Weather Finder:** A dynamic weather app featuring real-time API integration and live climate background themes.
+- **🎵 Musify:** A responsive music player web application built using HTML, CSS, and JavaScript.
+- **💰 Spendy:** An intuitive expense tracking web application for managing daily finances.
+- **🌤️ Live Weather Finder:** A dynamic weather app featuring real-time API integration and live climate background themes.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharukesh24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharukesh24&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
